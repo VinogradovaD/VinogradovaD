@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 - 🏫 I'm 4th year student at KFU, Institute of Computational Mathematics and Information Technologies. 
 - 🌱 I’m interested in front-end development.
 - ✉️ My telegram: @darinograd
+
+## ⚡ My GitHub Informations 
+
+<a href="https://github.com/camilasmarques">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinogradovad&theme=dracula&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinogradovad&layout=compact&theme=dracula"/>
+<div>
