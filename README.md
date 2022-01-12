@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏫 I'm 4th year student at KFU, Institute of Computational Mathematics and Information Technologies. 
-- 🌱 I’m interested in front-end development.
+- 💚 In love with front-end development.
 - ✉️ My telegram: @darinograd
 
 ## ⚡ My GitHub Informations 
