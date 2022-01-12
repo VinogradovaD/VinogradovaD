@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## ⚡ My GitHub Informations 
 
-<a href="https://github.com/camilasmarques">
+<a href="https://github.com/VinogradovaD">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinogradovad&theme=dracula&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinogradovad&layout=compact&theme=dracula"/>
 <div>
