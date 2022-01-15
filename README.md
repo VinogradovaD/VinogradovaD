@@ -1,4 +1,4 @@
-### Hi, I'm Darina 👋
+## Hi, I'm Darina 👋
 
 <!--
 **VinogradovaD/VinogradovaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,21 @@ Here are some ideas to get you started:
 - 💚 In love with front-end development.
 - ✉️ My telegram: @darinograd
 
-## ⚡ My GitHub Informations 
+## My Skills
 
-<a href="https://github.com/VinogradovaD">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinogradovad&theme=dracula&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinogradovad&layout=compact&theme=dracula"/>
-<div>
+![](https://img.shields.io/badge/_-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Spring_Security-informational?style=flat&logo=SpringSecurity&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-HTML-informational?style=flat&logo=Html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/_-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
