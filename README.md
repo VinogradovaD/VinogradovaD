@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/_-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Spring_Security-informational?style=flat&logo=SpringSecurity&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
 ![](https://img.shields.io/badge/_-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
