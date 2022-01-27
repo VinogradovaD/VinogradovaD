@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/_-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/_-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
