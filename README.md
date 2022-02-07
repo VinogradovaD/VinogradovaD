@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/_-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-JavaScript(ES5/ES6+)-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/_-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Spring_Security-informational?style=flat&logo=SpringSecurity&logoColor=white&color=4AB197)
