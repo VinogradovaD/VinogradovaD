@@ -15,22 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏫 I'm 4th year student at KFU, Institute of Computational Mathematics and Information Technologies. 
-- 💚 In love with front-end development.
+- 💚 Frontend developer.
 - ✉️ My telegram: @darinograd
 
 ## My Skills
-
+### Frontend:
 ![](https://img.shields.io/badge/_-HTML5-informational?style=flat&logo=Html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/_-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-SASS/SCSS-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-JavaScript(ES5/ES6+)-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=4AB197)
+### Backend:
 ![](https://img.shields.io/badge/_-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Spring_Security-informational?style=flat&logo=SpringSecurity&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/_-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=4AB197)
+### Tools:
 ![](https://img.shields.io/badge/_-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/_-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/_-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
