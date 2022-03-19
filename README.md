@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I'm 4th year student at KFU, Institute of Computational Mathematics and Information Technologies. 
-- 💚 Frontend developer.
+- 🏫 I'm 4th year student of Institute of Computational Mathematics and Information Technologies. 
+- 💚 In love with Frontend development.
 - ✉️ My telegram: @darinograd
 
 ## My Skills
