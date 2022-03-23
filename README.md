@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏫 I'm 4th year student of Institute of Computational Mathematics and Information Technologies. 
-- 💚 In love with Frontend development.
+- 💻 Beginer Frontend developer.
 - ✉️ My telegram: @darinograd
 
 ## My Skills
