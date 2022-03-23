@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I'm 4th year student of Institute of Computational Mathematics and Information Technologies. 
+- 🏫 I'm 4th year student in Institute of Computational Mathematics and Information Technologies of Kazan Federal University. 
 - 💻 Beginer Frontend developer.
 - ✉️ My telegram: @darinograd
 
