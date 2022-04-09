@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🏫 I'm 4th year student in Institute of Computational Mathematics and Information Technologies of Kazan Federal University. 
 - 💻 Beginer Frontend developer.
-- ✉️ My telegram: @darinograd
+- ✉️ My telegram: @vinogradova_darina
 
 ## My Skills
 ### Frontend: ![](https://img.shields.io/badge/_-HTML5-informational?style=flat&logo=Html5&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/_-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/_-SASS/SCSS-informational?style=flat&logo=Sass&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/_-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/_-JavaScript(ES5/ES6+)-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
